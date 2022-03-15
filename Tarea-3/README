@@ -1,0 +1,18 @@
+## Comandos Básicos de gcloud
+
+compañeros    | 
+------------- | 
+Fernando      | 
+Carlos        | 
+Luis          |
+Mike          |
+Valente       |
+
+<details>
+<summary markdown="span">Listar Service Accounts existentes en un proyecto</summary>
+
+### Para listar todas las SA de un proyecto se utiliza el siguiente comando:
+gcloud iam service-accounts list
+
+#### URL:
+https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
