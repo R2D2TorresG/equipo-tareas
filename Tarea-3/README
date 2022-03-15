@@ -8,10 +8,10 @@ Luis          |
 Mike          |
 Valente       |
 
-<details>
-<summary markdown="span">Listar Service Accounts existentes en un proyecto</summary>
+- Comando para listar las SA existentes en un proyecto
 
-### Para listar todas las SA de un proyecto se utiliza el siguiente comando:
+Para listar todas las SA de un proyecto se utiliza el siguiente comando:
 gcloud iam service-accounts list
-#### URL:
-https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
+
+
+URL: https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
