@@ -38,16 +38,16 @@ By default, global addresses and addresses from all regions are listed. The resu
 To list all addresses in a project in table form, run:
 
 gcloud compute addresses list
+
 To list the URIs of all addresses in a project, run:
 
-
 gcloud compute addresses list --uri
+
 To list all of the global addresses in a project, run:
 
-
 gcloud compute addresses list --global
-To list all of the addresses from the us-central1 region, run:
 
+To list all of the addresses from the us-central1 region, run:
 
 gcloud compute addresses list --filter=region:us-central1
 
