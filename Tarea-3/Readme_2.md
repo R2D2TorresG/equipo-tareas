@@ -54,3 +54,20 @@ gcloud compute addresses list --filter=region:us-central1
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### Fuente: https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 =========================================================================================
+
+## Enlistando buckets
+
+### lineas de comando
+
+Para completar esta guía con una utilidad de línea de comandos, debe tener los permisos de IAM adecuados. Si no creó el proyecto al que desea acceder, es posible que necesite que el propietario del proyecto le otorgue un rol que contenga los permisos necesarios.
+
+Para obtener una lista de los permisos necesarios para acciones específicas, consulte Permisos de IAM para comandos de gsutil .
+
+Para obtener una lista de roles relevantes, consulte Roles de [Cloud Storage](https://cloud.google.com/storage/docs/access-control/iam-roles/) . Como alternativa, puede crear un rol personalizado que tenga permisos específicos y limitados.
+
+## GCLOUD
+gcloud alpha storage ls
+
+## Ejemplo dentro del proyecto
+
+![List-bucket](https://user-images.githubusercontent.com/97456443/158726353-7221cc9e-37fb-4d8b-9316-656cd73d22ae.PNG)
