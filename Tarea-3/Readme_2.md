@@ -71,3 +71,6 @@ gcloud alpha storage ls
 ## Ejemplo dentro del proyecto
 
 ![List-bucket](https://user-images.githubusercontent.com/97456443/158726353-7221cc9e-37fb-4d8b-9316-656cd73d22ae.PNG)
+
+
+[## PROYECTO](https://console.cloud.google.com/compute/instances?project=crp-dev-iac-testing&cloudshell=true/)
