@@ -1,3 +1,5 @@
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 ### Comandos Básicos de gcloud
 
 compañeros    | 
@@ -53,3 +55,19 @@ gcloud compute addresses list --filter=region:us-central1
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ### Fuente: https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list
 =========================================================================================
+
+
+## Enlistando buckets
+
+### lineas de comando
+
+Para completar esta guía con una utilidad de línea de comandos, debe tener los permisos de IAM adecuados. Si no creó el proyecto al que desea acceder, es posible que necesite que el propietario del proyecto le otorgue un rol que contenga los permisos necesarios.
+
+Para obtener una lista de los permisos necesarios para acciones específicas, consulte Permisos de IAM para comandos de gsutil .
+
+Para obtener una lista de roles relevantes, consulte Roles de Cloud Storage . Como alternativa, puede crear un rol personalizado que tenga permisos específicos y limitados.
+
+## GCLOUD
+gcloud alpha storage ls
+
+
