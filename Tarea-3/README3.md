@@ -72,5 +72,5 @@ gcloud alpha storage ls
 
 ## Ejemplo dentro del proyecto
 
-![buecket!](List-bucket.PNG)
+![bucket!](List-bucket.PNG)
 
