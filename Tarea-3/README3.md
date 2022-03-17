@@ -70,4 +70,7 @@ Para obtener una lista de roles relevantes, consulte Roles de Cloud Storage . Co
 ## GCLOUD
 gcloud alpha storage ls
 
+## Ejemplo dentro del proyecto
+
+![buecket!](List-bucket.PNG)
 
