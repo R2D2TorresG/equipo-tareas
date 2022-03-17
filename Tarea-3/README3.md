@@ -65,7 +65,7 @@ Para completar esta guía con una utilidad de línea de comandos, debe tener los
 
 Para obtener una lista de los permisos necesarios para acciones específicas, consulte Permisos de IAM para comandos de gsutil .
 
-Para obtener una lista de roles relevantes, consulte Roles de [Cloud Storage] (https://cloud.google.com/storage/docs/access-control/iam-roles) . Como alternativa, puede crear un rol personalizado que tenga permisos específicos y limitados.
+Para obtener una lista de roles relevantes, consulte Roles de [Cloud Storage] (https://cloud.google.com/storage/docs/access-control/iam-roles/) . Como alternativa, puede crear un rol personalizado que tenga permisos específicos y limitados.
 
 ## GCLOUD
 gcloud alpha storage ls
