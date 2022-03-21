@@ -10,6 +10,28 @@ Luis          |
 Mike          |
 Valente       |
 
+==========================================
+## LISTAR COMPUTER ENGINE
+
+Google Cloud CLI te permite administrar los recursos de Compute Engine mediante el grupo de comandos  --gcloud compute. gcloud compute  --es una alternativa al uso de la API de Compute Engine.
+
+La CLI de gcloud forma parte de Google Cloud CLI y es una herramienta de línea de comandos unificada que incluye funciones como el autocompletado de declaraciones, la actualización in situ y la ayuda de la línea de comandos, formatos de salida legibles y procesables, además de integración con Google Cloud CLI.
+
+- Antes de comenzar
+Si deseas ejecutar gcloud compute en un símbolo del sistema, instala, actualiza e inicializa Google Cloud CLI.
+Si no tienes un símbolo del sistema disponible, intenta usar gcloud compute en Cloud Shell. Cloud Shell se instala, actualiza e inicializa de manera automática con Google Cloud CLI más reciente.
+Propiedades predeterminadas
+Cuando creas una instancia de máquina virtual, Compute Engine configura una VM con las propiedades predeterminadas del servidor de metadatos. Para verificar las propiedades predeterminadas de tu VM, ejecuta el siguiente comando:
+
+gcloud compute project-info describe --project PROJECT_ID
+
+Reemplaza PROJECT_ID con el ID del proyecto.
+
+### URL
+https://cloud.google.com/compute/docs/gcloud-compute?hl=es-419
+
+==========================================
+
 - Comando para listar las SA existentes en un proyecto
 
 Para listar todas las SA de un proyecto se utiliza el siguiente comando:
