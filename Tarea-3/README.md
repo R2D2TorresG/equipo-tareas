@@ -32,11 +32,24 @@ https://cloud.google.com/compute/docs/gcloud-compute?hl=es-419
 
 ==========================================
 
-- Comando para listar las SA existentes en un proyecto
+# Para listar las Service Accounts existentes en un proyecto de GCP:
 
 Para listar todas las SA de un proyecto se utiliza el siguiente comando:
-gcloud iam service-accounts list
+gcloud iam service-accounts list [--filter=EXPRESSION] [--limit=LIMIT] [--sort-by=[FIELD,…]] [--uri] [GCLOUD_WIDE_FLAG …]
 
+### Banderas adicionales:
+
+--filter=EXPRESSION
+Bandera que permite filtrar las SA que seran listadas.
+
+--limit=LIMIT
+Permite limitar el número de items que se van a listar. EL default es ilimitado.
+
+--sort-by=[FIELD,…]
+Listar por campos claves (separados por comas). El default es ascendente.
+
+--uri
+Se listan las URIs de los recursos en lugar de la salida default. 
 
 URL: https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/list
 
