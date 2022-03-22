@@ -98,12 +98,13 @@ gcloud alpha storage ls
 ![List-bucket](https://user-images.githubusercontent.com/97456443/158726353-7221cc9e-37fb-4d8b-9316-656cd73d22ae.PNG)
 
 
+## Comandos Extras
 
 ### Inhabilita mensajes
 Algunos comandos de la CLI de gcloud son interactivos y solicita a los usuarios la confirmación de una operación o una solicitud adicional para un comando ingresado.
 
 En la mayoría de los casos, esto no es conveniente cuando se ejecutan comandos en una secuencia de comandos o cualquier otra automatización. Puedes inhabilitar los mensajes desdegcloud mediante los comandos de la CLIdisable_prompts en tu configuración aTrue o mediante la función--quiet o-q marca. La mayoría de los comandos interactivos tienen valores predeterminados cuando se requiere una entrada o una confirmación adicional. Si se inhabilitan los mensajes, se usan estos valores predeterminados.
 
-## Por ejemplo:
+### Por ejemplo:
 
 gcloud debug targets list --quiet
