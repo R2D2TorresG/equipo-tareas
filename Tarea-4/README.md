@@ -80,3 +80,17 @@ Daniela       |
 - Creacion de proceso alterno, para que se ejecute en automatico con conexion FTP,si un proceso cancela por no permitir la conexion por SFTP, cuando hay cambio de llaves privadas en los controladores.
 - Creacion de shell para cambiar fecha de archivos que se generan despues de las 00:00 con fecha de un dia despues.
 - Creacion de shell para verificar que archivos no se generaron con fecha correcta , los deje en un log para tener los datos del nombre del archivo y solicitar sean generados.
+
+#### Daniela Hernández de Bacilio
+Procesos con posibilidad de automatizar:
+- Disponibilidad de sistemas SAP.
+- Disponibilidad de bases de datos.
+- Actualizar contraseña de usuarios de los diferentes sistemas SAP.
+- Actualizar bitacora de tickes atentidos para la creación, modificación, borrado y actualización de los usuarios de la bases de datos.
+- Ejecución correcta de respaldos de base de datos y filesystem aplicativos.
+- Revisar correcto funcionamiento de los diferentes sistemas SAP.
+- Revisar el procentaje de CPU y memoria de los distemas SAP y base de datos sean los indicados para la operación.
+- Cargar archivos en los diferentes sistemas SAP para pruebas de usuario y nuevos proyectos.
+- Seguimiento de aplicación de recomendaciones EarlyWatch.
+- Seguimiento de incidentes SAP.
+- Ejecución de scrips para obtener tablas mas grande de las bases de datos, y del resultado realizar housekeping.
