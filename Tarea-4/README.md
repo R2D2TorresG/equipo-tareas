@@ -34,7 +34,7 @@ Daniela       |
 - Lectura y busqueda de información espeficica en logs de equipos Juniper.
 - Configuración masiva de equipos switches Cisco.
 - Automatizar pruebas de verificación de hardenización en switches Cisco.
-- Generación de respaldos de equipos Cisco.
+- Generación de respaldos masivos de equipos Cisco.
 - Automaticación en la creación de VPNs Site to Site.
 - Automaticación en la creación de políticas de seguridad en equipos Juniper.
 - Creación automatizada de virtual servers en balanceadores F5.
