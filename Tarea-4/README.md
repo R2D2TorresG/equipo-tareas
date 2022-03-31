@@ -2,9 +2,10 @@
 
 ### Fernando Alan Villegas Campos
 
-- Despliegues consola JBoss
-- Despliegues consola WAS
-- Despliegues consola ATG Weblogic
+- Despliegues JBoss
+- Despliegues WAS
+- Despliegues ATG Backend
+- Despliegues ATG Frontend
 - Despliegues NodeJS
 - Despliegues App Engine
 - Despliegues Cloud Run
@@ -12,5 +13,5 @@
 - Despliegues GKE
 - Borrado temporales y cache ATG
 - Creacion de Clusters GKE
-- Sincronización Assets Frontent-Akamai
+- Sincronización Assets Frontend-Akamai
 - 
