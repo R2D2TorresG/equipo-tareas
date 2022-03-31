@@ -27,13 +27,21 @@ Daniela       |
 
 ### Miguel Angel Peña Portillo
 
-- Generación de respaldos de equipos Juniper de almacenes.
+- Generación de respaldos automatizados de equipos Juniper de almacenes.
 - Cambios de configuración masivos en equipos Juniper de almacenes.
-- Programación de reinicio de equipos Juniper.
-- Configuración masiva de equipos switches Cisco
+- Automatizar pruebas de verificación de hardenización de equipos Juniper.
+- Programación de reinicios masivos de equipos Juniper.
+- Lectura y busqueda de información espeficica en logs de equipos Juniper.
+- Configuración masiva de equipos switches Cisco.
+- Automatizar pruebas de verificación de hardenización en switches Cisco.
 - Generación de respaldos de equipos Cisco.
 - Automaticación en la creación de VPNs Site to Site
 - Automaticación en la creación de políticas de seguridad en equipos Juniper.
+- Creación automatizada de virtual servers en balanceadores F5.
+- Creación automatizada de nodos en balanceadores F5.
+- Creación automaticada de pools y pools members en balanceadores F5.
+- Creación automatizada de reglas "iRules" en balanceadores F5.
+- Creación automatizada de distintos tipos de perfiles (persistencia, autenticación, protocolos y servicios entre otros).
 
 #### Luis Arturo Torres Guerrero
 
