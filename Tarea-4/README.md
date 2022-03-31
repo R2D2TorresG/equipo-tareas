@@ -1,6 +1,6 @@
 ### TAREA 4
 
-### Fernando Alan Villegasc Campos
+### Fernando Alan Villegas Campos
 
 - Despliegues consola JBoss
 - Despliegues consola WAS
@@ -10,3 +10,7 @@
 - Despliegues Cloud Run
 - Despliegues Cloud Functions
 - Despliegues GKE
+- Borrado temporales y cache ATG
+- Creacion de Clusters GKE
+- Sincronización Assets Fronentd-Akamai
+- 
