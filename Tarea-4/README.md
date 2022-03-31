@@ -51,8 +51,18 @@ Daniela       |
 - Verificacion de salud de equipos 
 - Reporte de Broker
 - Transferencias de Logs 
-- Proceso de reincios de multiples tareas 
-
+- Proceso de reincios de multiples tareas
+- Verificacion de endpoint 
+- Envio de Curls
+- Reporte de estatus de MQ
+- Transferencias de archivos 
+- Reporte de estatus de Jboss
+- Cifras de control de OMS
+- Detener pods 
+- Descarga de Logs de pods
+- Cifras de control de Facturacion de nomina 
+- Generacion de reporte de ventas Liverpool
+- Generacion de reporte de ventas Suburbia
 
 #### Jorge Roberto Martinez Pantoja
 
