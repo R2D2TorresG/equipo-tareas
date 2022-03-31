@@ -101,14 +101,14 @@ Procesos con posibilidad de automatizar:
 
 #### Valente Hernandez Vazquez
 **PROCESOS POSIBLES A AUTOMATIZAR**
--Revision de listener.
--Estado de la base de datos.
--Creacion de base de datos.
--Revision y aumento de tablespaces.
--Ejecucion de scripts.
--Bloqueo de usuarios.
--Aplicacion de parches.
--Reportes de monitoreos.
--Creacion de estadisticas.
--Asignacion de permisos.
--Borrado de tablas.
+- Revision de listener.
+- Estado de la base de datos.
+- Creacion de base de datos.
+- Revision y aumento de tablespaces.
+- Ejecucion de scripts.
+- Bloqueo de usuarios.
+- Aplicacion de parches.
+- Reportes de monitoreos.
+- Creacion de estadisticas.
+- Asignacion de permisos.
+- Borrado de tablas.
