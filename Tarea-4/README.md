@@ -97,3 +97,18 @@ Procesos con posibilidad de automatizar:
 - Seguimiento de aplicación de recomendaciones EarlyWatch.
 - Seguimiento de incidentes SAP.
 - Ejecución de scrips para obtener tablas mas grande de las bases de datos, y del resultado realizar housekeping.
+
+
+#### Valente Hernandez Vazquez
+**PROCESOS POSIBLES A AUTOMATIZAR**
+-Revision de listener.
+-Estado de la base de datos.
+-Creacion de base de datos.
+-Revision y aumento de tablespaces.
+-Ejecucion de scripts.
+-Bloqueo de usuarios.
+-Aplicacion de parches.
+-Reportes de monitoreos.
+-Creacion de estadisticas.
+-Asignacion de permisos.
+-Borrado de tablas.
