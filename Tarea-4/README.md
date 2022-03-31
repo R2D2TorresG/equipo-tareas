@@ -12,5 +12,5 @@
 - Despliegues GKE
 - Borrado temporales y cache ATG
 - Creacion de Clusters GKE
-- Sincronización Assets Fronentd-Akamai
+- Sincronización Assets Frontent-Akamai
 - 
