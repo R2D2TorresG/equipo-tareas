@@ -35,13 +35,13 @@ Daniela       |
 - Configuración masiva de equipos switches Cisco.
 - Automatizar pruebas de verificación de hardenización en switches Cisco.
 - Generación de respaldos de equipos Cisco.
-- Automaticación en la creación de VPNs Site to Site
+- Automaticación en la creación de VPNs Site to Site.
 - Automaticación en la creación de políticas de seguridad en equipos Juniper.
 - Creación automatizada de virtual servers en balanceadores F5.
 - Creación automatizada de nodos en balanceadores F5.
 - Creación automaticada de pools y pools members en balanceadores F5.
 - Creación automatizada de reglas "iRules" en balanceadores F5.
-- Creación automatizada de distintos tipos de perfiles (persistencia, autenticación, protocolos y servicios entre otros).
+- Creación automatizada de distintos tipos de perfiles (persistencia, autenticación, protocolos y servicios entre otros) en balanceadores F5.
 
 #### Luis Arturo Torres Guerrero
 
