@@ -24,6 +24,9 @@ Daniela       |
 - Borrado temporales y cache ATG
 - Creacion de Clusters GKE
 - Sincronización Assets Frontend-Akamai
+- Despliegues Broker
+- Envio Mensajes a MQ
+- Reinicio Grupos Ejecucion Broker
 
 ### Miguel Angel Peña Portillo
 
