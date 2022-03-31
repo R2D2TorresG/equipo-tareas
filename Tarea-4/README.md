@@ -1,5 +1,15 @@
 ### TAREA 4
 
+compañeros    | 
+------------- | 
+Fernando      | 
+Carlos        | 
+Luis          |
+Mike          |
+Valente       |
+Jorge         |
+Daniela       |
+
 ### Fernando Alan Villegas Campos
 
 - Despliegues JBoss
@@ -24,4 +34,13 @@
 - Generación de respaldos de equipos Cisco.
 - Automaticación en la creación de VPNs Site to Site
 - Automaticación en la creación de políticas de seguridad en equipos Juniper.
-- 
+
+#### Luis Arturo Torres Guerrero
+
+- Busqueda de informacion en logs
+- Verificacion de procesos que se esten ejecutando 
+- Validacion de terminacion de proceso 
+- Verificacion de salud de equipos 
+- Reporte de Broker
+- Transferencias de Logs 
+- Proceso de reincios de multiples tareas 
