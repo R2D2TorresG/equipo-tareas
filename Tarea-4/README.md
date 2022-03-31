@@ -72,3 +72,11 @@ Daniela       |
 - Generación de logs de Estatus de Performance de base de datos
 - Transferencias de respaldos
 - Automatización de apagado y encendido de Hanas
+
+#### Carlos Celerino Sanchez Islas
+
+- Evitar cancelacion de proceso por validacion de archivos que pide el programa pero no todos los dias se generan todos los archivos.
+-Modificacion de programa para que tome un error conocido ,evitar cancelacion.
+- Creacion de proceso alterno, para que se ejecute en automatico con conexion FTP,si un proceso cancela por no permitir la conexion por SFTP, cuando hay cambio de llaves privadas en los controladores.
+- Creacion de shell para cambiar fecha de archivos que se generan despues de las 00:00 con fecha de un dia despues.
+- Creacion de shell para verificar que archivos no se generaron con fecha correcta , los deje en un log para tener los datos del nombre del archivo y solicitar sean generados.
