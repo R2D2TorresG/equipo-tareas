@@ -44,3 +44,13 @@ Daniela       |
 - Reporte de Broker
 - Transferencias de Logs 
 - Proceso de reincios de multiples tareas 
+
+
+#### Jorge Roberto Martinez Pantoja
+
+- Buscar errorer o información de usuarios en logs de Base de datos
+- Ejecución de sentencias SQL 
+- Automatizacion de instalaciones de Hana
+- Generación de logs de Estatus de Performance de base de datos
+- Transferencias de respaldos
+- Automatización de apagado y encendido de Hanas
